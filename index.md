@@ -70,6 +70,6 @@ These are the notes for the micro-teaching session 20/11/2023.
 
 3. Freed, A. (2021). _Conversational AI_. Simon and Schuster, New York
 
-[UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS](http://stueyg1t/greenwich) by [Stuart Smith](https://stuartimagery.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
+[UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS](https://stueyg1t.github.io/greenwich/) by [Stuart Smith](https://stuartimagery.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
 
 ![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)
