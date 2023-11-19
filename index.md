@@ -66,4 +66,6 @@
 
 3. In-depth look at systems - Freed, A. (2021). Conversational AI. Simon and Schuster
 
-[UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS](http://stueyg1t/greenwich) by [Stuart Smith](https://stuartimagery.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) ![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)
+[UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS](http://stueyg1t/greenwich) by [Stuart Smith](https://stuartimagery.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
+
+![CC BY-NC-ND 4.0](https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg?ref=chooser-v1) ![ND](https://mirrors.creativecommons.org/presskit/icons/nd.svg?ref=chooser-v1)
