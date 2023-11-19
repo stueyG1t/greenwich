@@ -1,5 +1,9 @@
 # UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS
 
+## Presenter: Stuart Smith
+
+These are the notes for the micro-teaching session 20/11/2023. 
+
 ## Learning Objectives
 
 - What is ‘conversational AI'?
