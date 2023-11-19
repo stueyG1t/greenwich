@@ -15,19 +15,19 @@
 
 #### General AI Assistants
 
-- Chat-GPT
-- Google Bard
-- Bing Chat
-- Claude AI
-- Hugging Face
+- [Chat-GPT](https://chat.openai.com/)
+- [Google Bard](https://bard.google.com/)
+- [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1)
+- [Claude AI](https://claude.ai/)
+- [Hugging Face](https://huggingface.co/)
 
 #### Specialized
 
-- DALL-E (image generation)
-- Midjourney (image generation)
-- Adobe Firefly [image generation]
-- Stable Diffusion [image generation]
-- Copilot [coding assistant]
+- [DALL-E](https://openai.com/dall-e-2) (image generation)
+- [Midjourney](https://www.midjourney.com/) (image generation)
+- [Adobe Firefly](https://firefly.adobe.com/) [image generation]
+- [Stable Diffusion](https://stablediffusionweb.com/) [image generation]
+- [Copilot](https://www.microsoft.com/en-us/microsoft-365/copilot-for-work) [coding assistant]
 
 ## Chat-GPT 3.5
 
@@ -45,11 +45,11 @@
 
 1. Be specific and clear.
 2. Provide context.
-3. Experiment in the length of writing.
+3. Experiment with the length of writing.
 4. Ask for a format, e.g., paragraph, list, etc.
 5. Give some examples.
 6. Refine - don’t be afraid to challenge the AI; ask it to clarify, justify, or rephrase.
-7. Experiment with ‘open-ended’ and ‘closed’ queries. Open-ended queries can result in more diversity in responses, great when looking for ideas!
+7. Experiment with ‘open-ended’ and ‘closed’ prompts. Open-ended queries can result in more diversity in responses, great when looking for ideas!
 8. Proofread, Revise, and check - never rely on the output alone.
 
 ## Considerations & ethical aspects
