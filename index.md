@@ -64,11 +64,11 @@ These are the notes for the micro-teaching session 20/11/2023.
 
 ## Further Resources
 
-1. University of Greenwich guidance on referencing generative AI - Academic and Digital Skills Team: ils-ast@gre. (2023). Available at: [https://docs.gre.ac.uk/__data/assets/pdf_file/0034/319858/referencing-for-generative-ai-2.pdf](https://docs.gre.ac.uk/__data/assets/pdf_file/0034/319858/referencing-for-generative-ai-2.pdf)
+1. Academic and Digital Skills Team: ils-ast@gre. (2023). Available at: [https://docs.gre.ac.uk/__data/assets/pdf_file/0034/319858/referencing-for-generative-ai-2.pdf](https://docs.gre.ac.uk/__data/assets/pdf_file/0034/319858/referencing-for-generative-ai-2.pdf) [Date accessed: 19 November 2023]
 
-2. More on the ethical issues - Ruane, E., Birhane, A., and Ventresque, A. (2019). Conversational AI: Social and Ethical Considerations. (online) Available at: [https://ceur-ws.org/Vol-2563/aics_12.pdf](https://ceur-ws.org/Vol-2563/aics_12.pdf)
+2. Ruane, Elayne & Birhane, Abeba & Ventresque, Anthony. (2019). Conversational AI: Social and Ethical Considerations. 
 
-3. In-depth look at systems - Freed, A. (2021). Conversational AI. Simon and Schuster
+3. Freed, A. (2021). _Conversational AI_. Simon and Schuster, New York
 
 [UNDERSTANDING CONVERSATIONAL AI FOR ACADEMIC SUCCESS](http://stueyg1t/greenwich) by [Stuart Smith](https://stuartimagery.com) is licensed under [CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/?ref=chooser-v1) 
 
